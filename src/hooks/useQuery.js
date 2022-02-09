@@ -20,6 +20,6 @@ function useQuery(url) {
 
   // return an *object* with the data and isLoaded state
   return { data, isLoaded };
-}
+} 
 
 export default useQuery;
